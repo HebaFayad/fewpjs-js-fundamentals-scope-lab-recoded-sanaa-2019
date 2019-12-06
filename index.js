@@ -13,9 +13,9 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  let two;
+  lettwo = 2 two;
   return n + two
 
   // Feel free to move things around!
-  two = 2
+  
 }
