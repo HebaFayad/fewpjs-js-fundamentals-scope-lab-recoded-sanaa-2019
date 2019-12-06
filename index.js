@@ -13,7 +13,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  lettwo = 2 two;
+  let two = 2two;
   return n + two
 
   // Feel free to move things around!
